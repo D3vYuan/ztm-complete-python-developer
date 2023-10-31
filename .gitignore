@@ -1,7 +1,7 @@
 # Adopted from: https://github.com/github/gitignore/blob/main/Python.gitignore
 
 # Custom
-webby-interview
+# webby-interview
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
